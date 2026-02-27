@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0a0a0a;
+  font-family: 'CopperPlate', 'Fantasy';
+}
+
+* {
+  box-sizing: border-box;
+}
