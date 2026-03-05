@@ -53,7 +53,8 @@ npm run deploy
 
 ## 👤 Author
 
-**Krish Patel** — Software Engineering Student  
+**Krish Patel** — Computer Science Student looking to get into SWE
+
 [LinkedIn](https://www.linkedin.com/in/krish-patel-1517b9395/) · [GitHub](https://github.com/Krishp1244)
 
 ## 📄 License
