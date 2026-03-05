@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swe-prep/static/css/main.607a2b38.css",
+    "main.js": "/swe-prep/static/js/main.44577ee1.js",
+    "index.html": "/swe-prep/index.html",
+    "main.607a2b38.css.map": "/swe-prep/static/css/main.607a2b38.css.map",
+    "main.44577ee1.js.map": "/swe-prep/static/js/main.44577ee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607a2b38.css",
+    "static/js/main.44577ee1.js"
+  ]
+}
