@@ -2,7 +2,7 @@
   "name": "sweprep",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Krishp1244.github.io/sweprep",
+  "homepage": "https://Krishp1244.github.io/swe-prep",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
